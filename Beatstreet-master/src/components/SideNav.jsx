@@ -127,7 +127,7 @@ const SideNav = () => {
             href="https://twitter.com/immdipu"
             target={"_blank"}
           >
-            Made by <span className="text-neutral-200">Rishi, Awantika and Samriddhi</span>
+            Made by <span className="text-neutral-200">YOUR NAME</span>
           </a>
         </div>
         {!islogged && (
