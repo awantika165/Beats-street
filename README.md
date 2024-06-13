@@ -22,6 +22,16 @@ Welcome to Beatstreet, a free website where you can listen to your favorite musi
 - Material-UI - for the UI components
 - HTML, CSS, and JavaScript - for the website design and functionality
 
+## Steps to Install on localhost
+- Fork and clone this repository
+- cd Beatstreet-backend-main
+- npm install
+- npm start
+- cd Beatstreet-master
+- npm install
+- npm run dev
+- Project will start running on your local host
+
 
 
 
