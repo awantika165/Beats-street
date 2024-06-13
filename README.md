@@ -2,10 +2,13 @@
 Welcome to Beatstreet, a free website where you can listen to your favorite music anytime, anywhere. This website has been developed using the MERN stack, which stands for MongoDB, Express, React, and Node.js.
 
 ## Features
-
-- Listen to your favorite music for free
-- Search for your favorite artists, albums, and songs
-- Create and manage playlists
+- User Authentication: Secure login and registration system.
+- Music Library: Access to a wide range of songs and artists.
+- Search Functionality: Easily find your favorite tracks and artists.
+- Playlists: Create and manage your playlists.
+- Responsive Design: Optimized for both desktop and mobile devices.
+- User Profiles: Personalize your experience with custom profiles.
+- Real-time Streaming: Enjoy high-quality music streaming without interruptions
 - Download songs for offline listening
 
 ## Technologies Used
@@ -17,35 +20,8 @@ Welcome to Beatstreet, a free website where you can listen to your favorite musi
 - ReactQuery - for fetching data from the backend
 - Redux - for state management
 - Material-UI - for the UI components
-- Netlify - for hosting the website
 - HTML, CSS, and JavaScript - for the website design and functionality
 
-## Screenshots
 
-### Desktop View
 
-#### Homepage
 
-![Homepage](public/images/DesktopHomepageSS.png)
-
-#### Search Results
-
-![Search Results](public/images/DesktopSearchresult.png)
-
-#### Playlist
-
-![Playlist Creation](public/images/DesktopPlaylist.png)
-
-### Mobile View
-
-#### Homepage
-
-<img src="public/images/MobileHomepage.png" width="300">
-
-#### Search Results
-
-<img src="public/images/MobileSearch.png" width="300">
-
-#### Playlist
-
-<img src="public/images/MobileView.png" width="300">
