@@ -19,7 +19,6 @@ Welcome to Beatstreet, a free website where you can listen to your favorite musi
 - Node.js - for the server
 - ReactQuery - for fetching data from the backend
 - Redux - for state management
-- Material-UI - for the UI components
 - HTML, CSS, and JavaScript - for the website design and functionality
 
 ## Steps to Install on localhost
